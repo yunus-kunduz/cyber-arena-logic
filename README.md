@@ -29,4 +29,4 @@ Bu çalışma, karmaşık olay yönetimi (Event Handling) ve 3D render süreçle
 
 ---
 **Geliştirici:** Yunus Kunduz  
-**Canlı Link:** [Oyunu Buradan Oynayın](https://yunuskunduz-maker.github.io/cyber-arena-logic/)
+**Canlı Link:** [Oyunu Buradan Oynayın](https://yunuskunduz-maker.github.io/cyber-arena-logic/zombie_defense_game.html)
