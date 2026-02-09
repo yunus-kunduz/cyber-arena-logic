@@ -58,4 +58,4 @@
 
 ---
 
-**Live Demo:** [Play the Game Here](https://yunuskunduz-maker.github.io/cyber-arena-logic/zombie_defense_game.html)
+**Live Demo:** [Play the Game Here](https://yunus-kunduz.github.io/cyber-arena-logic/zombie_defense_game.html)
