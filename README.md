@@ -1,32 +1,58 @@
-# Cyber-Arena: Logic Defense Game
+# Cyber-Arena: Logic Defense Game 🧟‍♂️
 
-Bu proje, nesne yönelimli programlama (OOP), algoritma mantığı ve interaktif web teknolojilerini pekiştirmek amacıyla geliştirilmiş, tarayıcı tabanlı bir 3D kule savunma (Tower Defense) oyunudur. Three.js kütüphanesi kullanılarak geliştirilen bu çalışma, dinamik nesne yönetimi ve kullanıcı etkileşimi üzerine odaklanmaktadır.
+***
 
-## 🚀 Proje Hakkında
-Cyber-Arena, oyuncunun ana kuleyi zombi dalgalarına karşı koruduğu stratejik bir savunma simülasyonudur. Oyun; gece-gündüz döngüsü, gelişmiş silah sistemleri, satın alınabilir müttefik birlikler ve kule savunma mekanizmalarını içermektedir.
-
-## 🎮 Kontroller ve Oynanış
-Oyun deneyimini optimize etmek için aşağıdaki kontroller tanımlanmıştır:
-
-* **Hareket:** `W`, `A`, `S`, `D` tuşları ile karakter kontrolü sağlanır.
-* **Bakış/Nişan:** Fare hareketi ile çevre kontrol edilir.
-* **Ateş Etme:** `Sol Tık` ile aktif silah ateşlenir.
-* **Dürbün (ADS):** `Sağ Tık` ile hassas nişan alma moduna geçilir.
-* **Zıplama:** `Space` tuşu ile dikey hareket sağlanır.
-* **Şarjör Yenileme:** `R` tuşu ile mühimmat tazelenir.
-* **El Bombası:** `G` tuşu ile alan hasarı veren patlayıcı atılır.
-* **Savunma Marketi:** `M` tuşu ile silah, müttefik asker ve savunma taretleri satın alınabilir.
-* **Kule Tamiri:** Kule yakınındayken `E` tuşu ile (500$ kredi karşılığında) kule canı yenilenebilir.
-
-## 🛠️ Teknik Özellikler
-* **Dil:** JavaScript (ES6+)
-* **Grafik Motoru:** Three.js (WebGL tabanlı)
-* **Stil:** CSS3 & HTML5 Canvas
-* **Sürüm Kontrolü:** Git & GitHub
-
-## 📈 Geliştirici Notları
-Bu çalışma, karmaşık olay yönetimi (Event Handling) ve 3D render süreçlerinin optimizasyonu üzerine bir vaka çalışması niteliğindedir. Müttefik birliklerin hedefleme algoritmaları ve zombi yapay zekası, dinamik dizi yönetimi ile optimize edilmiştir.
+## 📋 Project Overview
+**This project is a browser-based 3D Tower Defense game developed to reinforce Object-Oriented Programming (OOP), algorithm logic, and interactive web technologies.**
+**Developed using the Three.js library, this study focuses on dynamic object management and real-time user interaction.**
 
 ---
-**Geliştirici:** Yunus Kunduz  
-**Canlı Link:** [Oyunu Buradan Oynayın](https://yunuskunduz-maker.github.io/cyber-arena-logic/zombie_defense_game.html)
+
+## 🚀 About the Project
+**Cyber-Arena is a strategic defense simulation where the player protects a main tower against waves of zombies.**
+**The game features a day-night cycle, advanced weapon systems, purchasable ally units, and core tower defense mechanics.**
+
+
+
+---
+
+## 🎮 Controls and Gameplay
+**The following controls are defined to optimize the gaming experience:**
+
+* **Movement:** Use `W`, `A`, `S`, `D` keys for character control.
+* **Aiming:** Move the mouse to control the camera and environment.
+* **Firing:** Use `Left Click` to fire the active weapon.
+* **ADS (Aim Down Sights):** Use `Right Click` for precision aiming mode.
+* **Jumping:** Press `Space` for vertical movement.
+* **Reloading:** Press `R` to replenish ammunition.
+* **Grenade:** Press `G` to throw explosives that deal area damage.
+* **Defense Market:** Press `M` to purchase weapons, ally soldiers, and defense turrets.
+* **Tower Repair:** Press `E` while near the tower to restore health (requires $500 credits).
+
+---
+
+## 🛠️ Technical Specifications
+**The project utilizes a modern web-based technical stack:**
+
+| Technology | Implementation |
+| :--- | :--- |
+| **Language** | JavaScript (ES6+) |
+| **Graphics Engine** | Three.js (WebGL-based) |
+| **Styling** | CSS3 & HTML5 Canvas |
+| **Version Control** | Git & GitHub |
+
+
+
+---
+
+## 📈 Developer Notes
+**This study serves as a case study on complex Event Handling and the optimization of 3D rendering processes.**
+**The targeting algorithms for ally units and zombie AI have been optimized using dynamic array management to ensure performance stability.**
+
+---
+
+## 🔗 Project Links
+**Developer:** Yunus Kunduz
+**Education:** Necmettin Erbakan University - Electrical & Electronics Engineering
+**YouTube:** [CozumLab](https://www.youtube.com/@CozumLab)
+**Live Demo:** [Play the Game Here](https://yunuskunduz-maker.github.io/cyber-arena-logic/zombie_defense_game.html)
